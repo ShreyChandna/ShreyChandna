@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrey Chandna</h1>
-- 🔭 I’m currently working on **Student Portal using Spring Framework**
+- 🔭 I’m currently working on Student Portal using Spring Framework
 
 - 🌱 I’m currently learning **DSA,Spring Framework**
 
