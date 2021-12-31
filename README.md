@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shrey Chandna</h1>
 - 🔭 I’m currently working on Student Portal using Spring Framework
 
-- 🌱 I’m currently learning **DSA,Spring Framework**
+- 🌱 I’m currently learning **DSA,Spring BOOT**
 
-- 🤝 I’m looking for help with **Spring Framework**
+- 🤝 I’m looking for help with **Spring BOOT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShreyChandna](https://github.com/ShreyChandna)
 
