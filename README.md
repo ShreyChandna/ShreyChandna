@@ -10,8 +10,7 @@
 - 📫 How to reach me **shreychandna@gmail.com**
 
 - ⚡ Fun fact **I speak fluent Sarcasm 👾**
-- 
-![](https://komarev.com/ghpvc/?username=ShreyChandna)
+- ![](https://komarev.com/ghpvc/?username=ShreyChandna)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
