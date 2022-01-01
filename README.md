@@ -10,7 +10,7 @@
 - 📫 How to reach me **shreychandna@gmail.com**
 
 - ⚡ Fun fact **I speak fluent Sarcasm 👾**
-
+![image title](https://rushter.com/counter.svg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chandnashrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandnashrey" height="30" width="40" /></a>
